@@ -1,9 +1,9 @@
 heroku-buildpack-vips
 =====================
 
-Heroku buildpack with [libvips](https://github.com/jcupitt/libvips) installed.
+Heroku buildpack with [libvips](https://github.com/jcupitt/libvips) support.
 
-Current vips version is 8.0.0 with webp 0.4.0, libtiff 4.0.3, orc 0.4.18, fftw 3.3.4, libgsf 1.14.30, imagemagick 6.9.0 and lcms 2.6
+This buildpack includes support for libvips version 8.6.2.
 
 ## About libtiff use
 
